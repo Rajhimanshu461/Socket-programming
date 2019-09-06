@@ -1,1 +1,2 @@
-# Socket-programming
+# Client Server Trading System Using Socket-programming
+Created a server which will register requests from traders for buying and selling quantities of items.  The serverwill  also  match  the  buy  with  the  sell  requests  from  different  traders  based  on  certain  price  rules.   Client  hasfunctionalities like Login to the system, Send buy request,Send sell request,View order status,View trade status
