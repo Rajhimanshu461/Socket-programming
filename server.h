@@ -1,4 +1,3 @@
-//Assignment Group 11 (Application 2 Trading System) - Code Written for CS 349 Networks Lab - 2019 by Neelabh Tiwari (160123024), Himanshu Raj (160123049) and Uddeshya Mathur (160123048)
 
 struct authorizationresult{  // This Data Structure returns to the server the result of
   char name[50];             // login attempts made by any user
