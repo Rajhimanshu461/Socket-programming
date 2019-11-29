@@ -4,7 +4,6 @@ Compile Using the following command ------>
 Run the created executable file using the gollowing command ------>
 				./a.out <PORT NUMBER ON WHICH SERVER SHOULD LISTEN>
 */
-//Assignment Group 11 (Application 2 Trading System) - Code Written for CS 349 Networks Lab - 2019 by Neelabh Tiwari (160123024), Himanshu Raj (160123049) and Uddeshya Mathur (160123048)
 
 #include<stdio.h>
 #include<stdlib.h>
